@@ -5,4 +5,4 @@ Repositório dedicado a publicação de soluções de desafios do bootcamp "Pyth
 Cada diretório irá conter uma solucação para cada desafio.
 
 ## Diretório Sistema_Bancario:
-  Contém a proposta de solução para o desafio "Criando um Sistema Bancário com Python" proposto durante o bootcamp.
+  Contém a solução para o desafio "Criando um Sistema Bancário com Python" proposto durante o bootcamp.
