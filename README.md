@@ -6,3 +6,6 @@ Cada diretório irá conter uma solucação para cada desafio.
 
 ## Diretório Sistema_Bancario:
   Contém a solução para o desafio "Criando um Sistema Bancário com Python" proposto durante o bootcamp.
+  
+## Diretório Otimizando_Sistema_Bancario:
+  Contém a solução para o desafio "Otimizando o Sistema Bancário com Funções Python", complementando o desafio anterior.
